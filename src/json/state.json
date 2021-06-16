@@ -1,9 +1,0 @@
-[
-  {
-    "event": "died",
-    "who": "agent1",
-    "when": "2021-06-04 08:11:26",
-    "additional_data": "some info",
-    "container": "main"
-  }
-]
